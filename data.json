@@ -1,7 +1,7 @@
 {
   "clinics": {
     "ershednagar": {
-      "clinic_id": "CLINIC_001",
+      "clinic_id": "10034145",
       "clinic_name": "Aalo Clinic, Ershed Nagar",
       "location": "Ershed Nagar",
       "project": "Model Urban Primary Health Care Clinics Project",
@@ -242,7 +242,7 @@
     },
 
     "karail": {
-      "clinic_id": "CLINIC_002",
+      "clinic_id": "10034140",
       "clinic_name": "Karail",
       "location": "Karail",
       "project": "Model Urban Primary Health Care Clinics Project",
@@ -419,7 +419,7 @@
     },
 
     "shyampur": {
-      "clinic_id": "CLINIC_003",
+      "clinic_id": "10034144",
       "clinic_name": "Shyampur",
       "location": "Shyampur",
       "project": "Model Urban Primary Health Care Clinics Project",
